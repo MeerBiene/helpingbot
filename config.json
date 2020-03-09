@@ -1,0 +1,9 @@
+{
+	"prefix": "%",
+  "token": "token_goes_here",
+  "footer": "Rockybot -V1",
+  "logourl": "https://cdn.discordapp.com/attachments/645963703262511117/686513114292027418/logo.png",
+  "Maincolor": "#FF0000", 
+  "Seccolor": "#000000",
+  "levelcolor": "0x4286f4"
+}
